@@ -1,0 +1,7 @@
+../Core/Src/CAN_Hack.c:32:6:CAN_Init	8	static
+../Core/Src/CAN_Hack.c:76:6:CDC_Receive	16	static
+../Core/Src/CAN_Hack.c:157:6:CAN1_SetBaud	16	static
+../Core/Src/CAN_Hack.c:275:6:CAN2_SetBaud	16	static
+../Core/Src/CAN_Hack.c:392:6:SendCANMessageEXT	104	static
+../Core/Src/CAN_Hack.c:456:6:SendCANMessageSTD	80	static
+../Core/Src/CAN_Hack.c:509:6:CAN_Run	16	static
