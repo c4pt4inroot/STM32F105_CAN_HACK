@@ -36,7 +36,7 @@ This project allows you to build your own open-source CAN interface using STM32 
 
 ## 🔍 Reverse Engineering
 
-To ensure full compatibility with **CarBUSAnalyzer**, this firmware was **built** using **reverse engineering techniques**.
+This firmware was developed using **reverse engineering techniques** on the communication between the **CarBUSAnalyzer** software and the hardware.
 
 - USB communication was captured using **Wireshark**
 - Protocol details (commands, responses, frame formats) were manually decoded
